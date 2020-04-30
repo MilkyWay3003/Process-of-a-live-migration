@@ -62,8 +62,7 @@ print("List of host..........................................")
 print_host_list()
 
 print("Input target host")
-#target_host = input() #compute1
-target_host = 'compute1.maas.sst.fb4.fh'
+target_host = input()
 print(target_host)
 
 print("Process of live migration")
